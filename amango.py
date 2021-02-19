@@ -1,1 +1,1 @@
-dfasdfasdf
+print ("amango")
