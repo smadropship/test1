@@ -1,1 +1,1 @@
-print("pang")fdsakfmaskldfj
+print("pang")fd
